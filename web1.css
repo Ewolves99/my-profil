@@ -1,0 +1,210 @@
+body{background-color: ;
+          margin: 0;
+}
+
+.a{  
+      display: inline-block;
+      position: absolute;
+top: 90px;
+left: 43%; 
+text-color: #D2D2D2;
+font-family: 'Megrim', cursive;
+font-size: 140%;
+text-shadow: 4px 4px 4px #0D6497;
+}
+.b{
+
+     
+      display: inline-block; 
+     position: absolute;
+ top: 170px;
+left: 46%;  
+font-size: 120%;    
+text-shadow: 3px 3px 3px #278ECB;
+}
+
+.background{
+	top:40px;
+width: 100%;
+height: 670px;
+	display:inline-block;
+	position: absolute;
+
+	
+	}
+.COLOR{
+	
+	background-color: #7EE6E8;
+display: inline-block;
+position: absolute;
+	width: 100%;
+    height: 665PX;
+	
+	
+}
+.about-me{
+	display: block;
+	position: absolute;
+    top: 750px;
+    left: 550px;
+	font-size: 42px;	
+	font-family: 'Berkshire Swash', cursive;
+}
+hr{
+	color: gray;
+	top: 1075p;
+border-style: none none dotted;
+border-width: 6px;
+width: 16px;
+
+
+}
+.my-self{
+	display: block;
+	position: absolute;
+	top: 890px;
+	left: 490px;
+	    font-size: 24px;
+		line-height: 36px;
+		
+}
+.me{
+	display: block;
+	position: absolute;
+        top: 850px;
+		left: 300px;
+    height: 160px;
+	float: right;
+}
+.web-devloping{
+display: block;
+	position: absolute;
+        top: 1100px;
+		left: 560px;
+    height: 160px;
+	font-size: 30px;
+}
+.about-web{
+	display: block;
+	position: absolute;
+	top: 1200px;
+	left: 370px;
+	font-size: 24px;
+	line-height: 36px;
+     text-align: center;
+}
+.logo{
+display: block;
+	position: absolute;
+	    height: 160px;
+	left: 540px;
+	
+	bottom: 10px;
+}
+
+.gaming{
+	display: block;
+	position: absolute;
+    top: 1430px;
+    left: 560px;
+	font-size: 40px;	
+}
+.about-gaming{
+	display: block;
+	position: absolute;
+	top: 1570px;
+	left: 450px;
+	font-size: 24px;
+	line-height: 36px;
+     text-align: center;
+	
+}
+.gamer{
+	display: block;
+	position: absolute;
+	    height: 160px;
+	top: 1550px;
+	left: 250px;
+	
+}
+.video-editing{
+display: block;
+	position: absolute;
+    top: 1770px;
+    left: 520px;
+	font-size: 40px;	
+	
+}
+.about-video{
+	display: block;
+	position: absolute;
+	top: 1900px;
+	left: 320px;
+	font-size: 24px;
+	line-height: 36px;
+     text-align: center;
+	
+}
+.editing{
+	display: block;
+	position: absolute;
+	    height: 190px;
+	top: 1900px;
+	left: 800px;	
+}
+.color1{
+	background-color: #B0EDF3;
+	display: inline-block;
+	position: absolute;
+	width: 100%;
+	top: 2230px;
+    width: 100%;
+	height:90px;
+}
+.footer{
+	display: inline-block;
+	position: absolute;
+	top: 2300px;
+	left: 500px;
+	
+}
+.instagram{
+	display: inline-block;
+	position: absolute;
+	bottom: 35px;
+left: 20px;    
+text-decoration: none;
+color: #45ADEF;
+}
+.youtube{
+	display: inline-block;
+	position: absolute;
+	bottom: 35px;
+	left: 110px;
+	text-decoration: none;
+color: #45ADEF;
+}
+.facebook{
+	display: inline-block;
+	position: absolute;
+	bottom: 35px;
+left: 190px;
+text-decoration: none;
+color: #45ADEF;
+
+
+}
+a:hover {
+	color: #DEEBF3;
+}
+a{
+
+}
+h3{
+	color: #139EC9;
+	font-family: 'Cinzel Decorative', cursive;
+
+}
+p{
+	font-family: 'Podkova', serif;
+}
